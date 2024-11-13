@@ -1,4 +1,15 @@
 import { useContext } from "react";
+// import {
+//   CheckoutItemContainer,
+//   ImageContainer,
+//   Image,
+//   Quantity,
+//   Name,
+//   Arrow,
+//   Price,
+//   Value,
+//   RemoveButton,
+// } from "./checkout-item.styles";
 import "./checkout-item.styles.scss";
 import { CartContext } from "../../context/cart.context";
 
